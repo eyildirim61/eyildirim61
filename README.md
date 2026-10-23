@@ -71,17 +71,6 @@ elif = {
 
 ---
 
-## 📈 GitHub Stats
-
-<div align="center">
-
-<img height="160" src="https://github-readme-stats.vercel.app/api?username=eyildirim61&show_icons=true&theme=midnight-purple&hide_border=true&count_private=true" />
-<img height="160" src="https://github-readme-stats.vercel.app/api/top-langs/?username=eyildirim61&layout=compact&theme=midnight-purple&hide_border=true" />
-
-</div>
-
----
-
 ## 💼 Experience Highlights
 
 - 🤖 **AI Software Engineer Intern** @ Mirabito Energy — AI promotion engine, CI/CD, Terraform
